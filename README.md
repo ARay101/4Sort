@@ -1,2 +1,2 @@
-# 4Sort
-Sort upto 4 items!
+# ManySort
+Sort a whole bunch of items with this project!
